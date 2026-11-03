@@ -1,6 +1,6 @@
 # Hi, I'm Tulsi Patel! 👋
 
-### People Analytics | Data Analysis | Business Insights
+### UX Research | People Analytics | Data Analysis | Business Insights 
 
 I'm an Industrial-Organizational Psychology graduate interested in using data to understand workplace trends, improve organizational effectiveness, and support evidence-based HR decisions.
 
