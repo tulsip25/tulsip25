@@ -23,6 +23,6 @@ I'm an Industrial-Organizational Psychology graduate interested in using data to
 SQL · SQLite · Power BI · Excel · SPSS · R · Data Analysis · Research · Data Visualization
 
 ### 🎯 Career Interests
-People Analytics | HR Analytics | Data Analyst | Business Analyst
+UX Research | People Analytics | HR Analytics | 
 
 📫 Connect with me on [LinkedIn](www.linkedin.com/in/tulsihpatel)
